@@ -16,3 +16,5 @@ gatsby develop
 Commit to master to deploy
 
 Deployed to Netflify using Cloudflare as DNS
+
+--
